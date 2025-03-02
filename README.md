@@ -1,1 +1,1 @@
-this is traning project with uses typescript 
+this is training project with uses typescript
